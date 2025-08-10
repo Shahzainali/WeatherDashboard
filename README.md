@@ -41,3 +41,30 @@ Build & Run
 Select a device/emulator
 
 Click ▶ Run in Android Studio
+
+## 📝 Key Decisions Made
+
+- **Jetpack Compose over XML** — Chose Compose for modern, declarative UI development.
+- **Hilt over Manual DI** — Selected Hilt for cleaner dependency injection with less boilerplate.
+- **Lottie for Animations** — Chose Lottie over custom animations for rich, lightweight weather visuals.
+
+---
+
+## ⚖️ Trade-offs
+
+- **Local Storage** — Used simple DataStore over Room database as it is sufficient for single-city persistence.
+
+---
+
+## 🚀 What I'd Add With More Time
+
+### Features to Implement
+- ✅ **Testing**
+- 🎨 **UI Improvements**
+- ⏱ **Hourly Weather Breakdown** for the current day
+- 🔔 **Push Notifications** for weather alerts
+- 🌆 **Favorite Cities Management** with swipe gestures
+- 📱 **Weather Widgets** for the home screen
+
+
+# ZZZ4Z4Z4Z4Z4Z4Z4Z4Z4Z4
