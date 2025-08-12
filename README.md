@@ -37,6 +37,7 @@ A modern Android weather application built with **Jetpack Compose** and **MVVM a
 git clone https://github.com/your-username/mini-weather-dashboard.git
 cd mini-weather-dashboard
 ```
+Change key to your(current one is invalied), get from openweathermap
 Build & Run
 Select a device/emulator
 
